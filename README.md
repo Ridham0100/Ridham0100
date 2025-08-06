@@ -1,5 +1,4 @@
-
-  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f41304237426e704156526a4d4a59425a57442f67697068792e676966](https://github.com/user-attachments/assets/09c7a5d7-e984-401a-bde8-9ad45d4c54ff" width="300" alt="Animated GIF)
+ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f41304237426e704156526a4d4a59425a57442f67697068792e676966](https://github.com/user-attachments/assets/09c7a5d7-e984-401a-bde8-9ad45d4c54ff" width="300")
 
 
 Aspiring Data Scientist with a B.Tech in Computer Science & Engineering (AI & Data Science specialization). Winner of Smart India Hackathon 2023 (AICTE), with hands-on experience in Python, SQL, Machine Learning, Statistics, Power BI, Excel, and NLP. Developed impactful projects including MediBot (AI Doctor), Fake News Detection via Sentiment Analysis, and an innovative AI Video Generator that autonomously creates news-based videos from web data.
