@@ -3,9 +3,17 @@
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ridham-juneja/)[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/Ridham0100/)
-[![Resume](https://img.shields.io/badge/Resume-View-green?logo=google-drive)](https://drive.google.com/file/d/https://drive.google.com/file/d/1f4JdNlOG8nRY6MjWooEy6a1Il0gUX52l/view?usp=drivesdk/view)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/ridham-juneja/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/Ridham0100/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
+  </a>
+  <a href="https://drive.google.com/file/d/1f4JdNlOG8nRY6MjWooEy6a1Il0gUX52l/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Resume-View-green?logo=google-drive" />
+  </a>
+</div>
 
 Aspiring Data Scientist with a B.Tech in Computer Science & Engineering (AI & Data Science specialization). Winner of Smart India Hackathon 2023 (AICTE), with hands-on experience in Python, SQL, Machine Learning, Statistics, Power BI, Excel, and NLP. Developed impactful projects including MediBot (AI Doctor), Fake News Detection via Sentiment Analysis, and an innovative AI Video Generator that autonomously creates news-based videos from web data.
 
