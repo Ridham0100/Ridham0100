@@ -21,11 +21,6 @@
 </div>
 
 
-<div align="center">
-  <h1 style="font-size: 60px; font-weight: bold; margin-top: 40px;">
-    Aspiring Data Scientist
-  </h1>
-</div>
 
 <div style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.6; padding: 20px;">
   <p><strong>B.Tech in Computer Science & Engineering</strong> (AI & Data Science specialization).</p>
