@@ -1,7 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/09c7a5d7-e984-401a-bde8-9ad45d4c54ff" width="300" alt="Demo GIF"/>
+  
+<div align="center">
+  <h1 style="font-size: 60px; font-weight: bold; margin-top: 40px;">
+    Aspiring Data Scientist
+  </h1>
+</div>
 
-                                      #Aspiring Data Scientist
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/ridham-juneja/" target="_blank">
