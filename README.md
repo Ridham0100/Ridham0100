@@ -3,6 +3,10 @@
 </div>
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/linkedin.com/in/ridham-juneja/)
+
+
+
 Aspiring Data Scientist with a B.Tech in Computer Science & Engineering (AI & Data Science specialization). Winner of Smart India Hackathon 2023 (AICTE), with hands-on experience in Python, SQL, Machine Learning, Statistics, Power BI, Excel, and NLP. Developed impactful projects including MediBot (AI Doctor), Fake News Detection via Sentiment Analysis, and an innovative AI Video Generator that autonomously creates news-based videos from web data.
 
 Certified HackerRank Gold 5-Star in SQL and LeetCode SQL 50 Challenge completer. Awarded a Merit Certificate from the Ministry of Youth Affairs & Sports (eligible for bonus marks in government exams). Completed ML course with Coding Ninjas and possess practical knowledge of R programming.
