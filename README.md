@@ -20,7 +20,9 @@
   </a>
 </div>
 
+<p> </p>
 
+<p> </p>
 
 <div style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.6; padding: 20px;">
   <p><strong>B.Tech in Computer Science & Engineering</strong> (AI & Data Science specialization).</p>
