@@ -19,10 +19,46 @@
     <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" height="40"/>
   </a>
 </div>
-Aspiring Data Scientist with a B.Tech in Computer Science & Engineering (AI & Data Science specialization). Winner of Smart India Hackathon 2023 (AICTE), with hands-on experience in Python, SQL, Machine Learning, Statistics, Power BI, Excel, and NLP. Developed impactful projects including MediBot (AI Doctor), Fake News Detection via Sentiment Analysis, and an innovative AI Video Generator that autonomously creates news-based videos from web data.
 
-Certified HackerRank Gold 5-Star in SQL and LeetCode SQL 50 Challenge completer. Awarded a Merit Certificate from the Ministry of Youth Affairs & Sports (eligible for bonus marks in government exams). Completed ML course with Coding Ninjas and possess practical knowledge of R programming.
 
-Internship experience with Creator's Bite (US Startup) and Imarticus Learning. Passionate about leveraging data and AI to solve real-world problems. Eager to contribute to impactful projects and grow as a Data Scientist.
+<div align="center">
+  <h1 style="font-size: 60px; font-weight: bold; margin-top: 40px;">
+    Aspiring Data Scientist
+  </h1>
+</div>
 
-Let’s connect: linkedin.com/in/ridham-juneja
+<div style="max-width: 800px; margin: auto; font-size: 18px; line-height: 1.6; padding: 20px;">
+  <p><strong>B.Tech in Computer Science & Engineering</strong> (AI & Data Science specialization).</p>
+  
+  <p>🏆 <strong>Winner of Smart India Hackathon 2023 (AICTE)</strong>, with hands-on experience in:</p>
+  <ul>
+    <li>Python, SQL, Machine Learning, Statistics</li>
+    <li>Power BI, Excel, Natural Language Processing (NLP)</li>
+  </ul>
+
+  <p>🚀 Developed impactful projects:</p>
+  <ul>
+    <li><strong>MediBot</strong> – AI Doctor chatbot</li>
+    <li><strong>Fake News Detection</strong> using Sentiment Analysis</li>
+    <li><strong>AI Video Generator</strong> – autonomously creates news-based videos from web data</li>
+  </ul>
+
+  <p>🎖️ <strong>Certifications & Achievements:</strong></p>
+  <ul>
+    <li>HackerRank Gold 5-Star in SQL</li>
+    <li>LeetCode SQL 50 Challenge completer</li>
+    <li>Merit Certificate from Ministry of Youth Affairs & Sports (eligible for bonus marks in government exams)</li>
+    <li>Completed ML course with Coding Ninjas</li>
+    <li>Practical knowledge of R programming</li>
+  </ul>
+
+  <p>💼 <strong>Internship Experience:</strong></p>
+  <ul>
+    <li>Creator's Bite (US Startup)</li>
+    <li>Imarticus Learning</li>
+  </ul>
+
+  <p>💡 Passionate about leveraging data and AI to solve real-world problems. Eager to contribute to impactful projects and grow as a Data Scientist.</p>
+
+  <p>📬 <strong>Let’s connect:</strong> <a href="https://linkedin.com/in/ridham-juneja" target="_blank">linkedin.com/in/ridham-juneja</a></p>
+</div>
