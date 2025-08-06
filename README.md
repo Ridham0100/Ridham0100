@@ -3,8 +3,7 @@
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](/ridham-juneja/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/Ridham0100/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ridham-juneja/)[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/Ridham0100/)
 [![Resume](https://img.shields.io/badge/Resume-View-green?logo=google-drive)](https://drive.google.com/file/d/https://drive.google.com/file/d/1f4JdNlOG8nRY6MjWooEy6a1Il0gUX52l/view?usp=drivesdk/view)
 
 
