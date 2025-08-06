@@ -61,4 +61,6 @@
   <p>💡 Passionate about leveraging data and AI to solve real-world problems. Eager to contribute to impactful projects and grow as a Data Scientist.</p>
 
   <p>📬 <strong>Let’s connect:</strong> <a href="https://linkedin.com/in/ridham-juneja" target="_blank">linkedin.com/in/ridham-juneja</a></p>
+
+  <p>🤝 <strong>Want to collaborate?</strong> Drop an email at <a href="mailto:ridhamjuneja0100@gmail.com">ridhamjuneja0100@gmail.com</a></p>
 </div>
